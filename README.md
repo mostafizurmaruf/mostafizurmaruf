@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I’m Mostafizur Rahman Maruf 
+**App Developer | Flutter | Java | Kotlin | PHP | MySQL | Laravel | RestAPI | Retrofit | Postman**
 
-<!--
-**mostafizurmaruf/mostafizurmaruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 What I do  
+- I build scalable mobile applications for Android using **Java** and **Flutter**.  
+- I create clean and maintainable **Laravel APIs** for backend services.  
+- I have experience working in different roles: Android Developer → Flutter Developer → Mobile App Engineer.  
+- I enjoy managing small teams, coordinating projects, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack  
+| Platform | Language / Frameworks | Tools / Databases |
+|----------|----------------------|-------------------|
+| Android  | Java                 | Android Studio    |
+| Cross‑Platform | Flutter (Dart)   | Android Studio |
+| Backend & APIs | PHP, Laravel        | MySQL, SQLite, Postman |
+| Databases & Storage | MySQL, SQLite, Realm | — |
+| Version Control & CI/CD | Git, GitHub, GitLab | — |
+
+---
+
+## 💼 Experience  
+- **Software Engineer (Mobile Application)** — ShareDeal, Dhaka (Sep 2023 – Present)  
+- **Software Engineer** — Ayaan Technologies LTD, Cumilla (May 2022 – Aug 2024)
+
+---
+
+### 😊 Thank you for visiting my profile!  
+Let’s build something amazing together. 🚀
