@@ -23,7 +23,7 @@
 ---
 
 ## 💼 Experience  
-- **Software Engineer (Mobile Application)** — ShareDeal, Dhaka (Sep 2023 – Present)  
+- **Software Engineer (Mobile Application)** — ShareDeal, Dhaka (Oct 2025 – Present)  
 - **Software Engineer** — Ayaan Technologies LTD, Cumilla (May 2022 – Aug 2024)
 
 ---
