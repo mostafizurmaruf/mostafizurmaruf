@@ -1,10 +1,12 @@
-# 👋 HI, I’m Maruf
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%99%80%F0%9D%99%AD%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A9+%F0%9D%99%81%F0%9D%99%AA%F0%9D%99%A1%F0%9D%99%A1-%F0%9D%99%8E%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%98%F0%9D%99%A0+%F0%9D%98%BF%F0%9D%99%9A%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7;%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C+%F0%9D%99%A5%F0%9D%99%A4%F0%9D%99%AC%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9B%F0%9D%99%AA%F0%9D%99%A1+%F0%9D%99%92%F0%9D%99%9A%F0%9D%99%97+%F0%9D%98%BD%F0%9D%99%96%F0%9D%99%98%F0%9D%99%A0%F0%9D%99%9A%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%A8;%26+%F0%9D%99%88%F0%9D%99%A4%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%A1%F0%9D%99%9A+%F0%9D%98%BC%F0%9D%99%A5%F0%9D%99%A5%F0%9D%99%A8+%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A9+%F0%9D%99%A8%F0%9D%99%98%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=45&pause=1000&color=831FDF&background=E8CBFF2A&center=true&repeat=false&width=2000&height=100&lines=Full+Stack+Software+Engineer+Building+Scalable+Mobile+%26+Web+Applications)](https://git.io/typing-svg)
 
 
 ## 💼 Experience  
-- **Software Engineer (Mobile Application)** — ShareDeal, Dhaka (Oct 2025 – Present)  
-- **Software Engineer** — Ayaan Technologies LTD, Cumilla (May 2022 – Aug 2024)
+**Software Engineer**  
+<em>ShareDeal, Dhaka (Oct 2025 – Present)</em>
+
+**Laravel & Flutter Developer**  
+<em>Ayaan Technologies LTD, Cumilla (May 2022 – Aug 2024)</em>
 
 ## 🧰 Tech Stack
 
