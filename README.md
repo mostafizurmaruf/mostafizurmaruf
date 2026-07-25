@@ -1,35 +1,149 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=800&size=45&pause=1000&color=831FDF&background=E8CBFF2A&center=true&repeat=false&width=2000&height=100&lines=Full+Stack+Software+Engineer+Building+Scalable+Mobile+%26+Web+Applications)](https://git.io/typing-svg)
+<div align="center">
 
+# 👋 Hey, I'm Mostafizur Maruf
 
-## 💼 Experience  
-**Software Engineer**  
-<em>ShareDeal, Dhaka (Oct 2025 – Present)</em>
+### `Full Stack Software Engineer`
 
-**Laravel & Flutter Developer**  
-<em>Ayaan Technologies LTD, Cumilla (May 2022 – Aug 2024)</em>
+**I build scalable web & mobile applications, robust APIs, and production-ready software.**
 
-## 🧰 Tech Stack
+<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FC2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600\&size=22\&pause=1200\&color=8B5CF6\&center=true\&vCenter=true\&width=900\&lines=Laravel+%7C+PHP+%7C+Flutter+%7C+Android;Backend+Architecture+%7C+REST+APIs+%7C+Mobile+Apps;Building+Software+That+Scales.)](https://git.io/typing-svg)
 
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurmaruf&layout=compact&theme=radical)
+---
 
+## `> whoami`
 
-## 🔭 What I do  
-- I build scalable mobile applications for Android using **Java** and **Flutter**.  
-- I create clean and maintainable **Laravel APIs** for backend services.  
-- I have experience working in different roles: Android Developer → Flutter Developer → Mobile App Engineer.  
-- I enjoy managing small teams, coordinating projects, and continuously learning new technologies.
+I'm a **Full Stack Software Engineer** focused on building reliable, scalable, and maintainable software.
 
+My primary expertise lies in **Laravel backend development** and **Flutter mobile application development**, with experience across the full software development lifecycle — from designing APIs and database architecture to building mobile applications and deploying production systems.
 
-### 😊 Thank you for visiting my profile!  
-Let’s build something amazing together. 🚀
+```text
+Frontend & Web        → Blade · React.js · Next.js · WordPress · Responsive Design · Material Design
+Mobile                → Flutter · Native Android (Java) · Android · iOS
+Backend               → PHP · Laravel · RESTful API · MVC · OOP
+Database              → MySQL · PostgreSQL · SQLite
+Authentication        → Firebase Authentication · JWT · OAuth
+API & Communication   → REST API · JSON · HTTP/HTTPS
+Tools & Services      → Firebase · Postman · Firebase Cloud Messaging (FCM)
+Version Control       → Git · GitHub
+Integrations          → Payment Gateway · Google Maps API
+Cloud & Infrastructure→ AWS (EC2) · DigitalOcean · Linux · Nginx · Apache · Firebase Hosting · Shared Hosting
+Deployment & CI/CD    → CI/CD · Google Play Console · Apple Developer
+Architecture          → MVC · MVVM · Clean Architecture · SOLID Principles
+Performance           → Debugging · Code Optimization · Performance Optimization
+Analytics & Tracking  → Server-Side Tracking · Google Analytics · Google Tag Manager · Bing Webmaster Tools
+```
+
+---
+
+## 💼 Experience
+
+### `01` — Software Engineer
+
+**ShareDeal · Dhaka, Bangladesh**
+`Oct 2025 — Present`
+
+Working on scalable web and mobile products with a focus on backend engineering, API development, application performance, and production systems.
+
+**Focus Areas**
+
+* Laravel application development
+* RESTful API architecture
+* Flutter mobile application development
+* Database design and optimization
+* Third-party API & service integrations
+* Payment and cloud service integrations
+* Performance optimization and production deployment
+
+---
+
+### `02` — Laravel & Flutter Developer
+
+**Ayaan Technologies LTD · Cumilla, Bangladesh**
+`May 2022 — Aug 2024`
+
+Developed and maintained web applications, backend services, and cross-platform mobile applications.
+
+**Focus Areas**
+
+* PHP & Laravel backend development
+* REST API development and integration
+* Flutter application development
+* Android application development
+* MySQL & SQLite database management
+* Authentication and business logic
+* Application deployment and maintenance
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,java,kotlin,dart" />
+</p>
+
+### Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,flutter,wordpress,react,nextjs,nestjs" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+## 🛠️ Engineering Mindset
+
+I care about more than just making software **work**.
+
+I focus on building systems that are:
+
+**Scalable** → Ready to handle growth
+**Maintainable** → Easy for teams to understand and extend
+**Secure** → Built with security in mind
+**Performant** → Optimized for real-world usage
+**Reliable** → Designed for production, not just development
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizurmaruf&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 💭 A Little About Me
+
+I enjoy taking an idea from **concept → architecture → code → production**.
+
+Whether it's a high-performance backend, a mobile application, or an API-driven platform, I like solving complex problems and turning them into simple, reliable software.
+
+Outside of coding, I enjoy exploring new technologies, improving my engineering skills, and helping teams build better products.
+
+---
+
+<div align="center">
+
+### `Think → Build → Ship → Improve`
+
+<br>
+
+If you're building something interesting,
+**let's build it together.** 🚀
+
+</div>
