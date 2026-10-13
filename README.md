@@ -20,60 +20,11 @@ I'm a **Full Stack Software Engineer** focused on building reliable, scalable, a
 
 My primary expertise lies in **Laravel backend development** and **Flutter mobile application development**, with experience across the full software development lifecycle — from designing APIs and database architecture to building mobile applications and deploying production systems.
 
-```text
-Frontend & Web        → Blade · React.js · Next.js · WordPress · Responsive Design · Material Design
-Mobile                → Flutter · Native Android (Java) · Android · iOS
-Backend               → PHP · Laravel · RESTful API · MVC · OOP
-Database              → MySQL · PostgreSQL · SQLite
-Authentication        → Firebase Authentication · JWT · OAuth
-API & Communication   → REST API · JSON · HTTP/HTTPS
-Tools & Services      → Firebase · Postman · Firebase Cloud Messaging (FCM)
-Version Control       → Git · GitHub
-Integrations          → Payment Gateway · Google Maps API
-Cloud & Infrastructure→ AWS (EC2) · DigitalOcean · Linux · Nginx · Apache · Firebase Hosting · Shared Hosting
-Deployment & CI/CD    → CI/CD · Google Play Console · Apple Developer
-Architecture          → MVC · MVVM · Clean Architecture · SOLID Principles
-Performance           → Debugging · Code Optimization · Performance Optimization
-Analytics & Tracking  → Server-Side Tracking · Google Analytics · Google Tag Manager · Bing Webmaster Tools
-```
-
----
-
-## 💼 Experience
-
-### `01` — Software Engineer
-
-**ShareDeal · Dhaka, Bangladesh**
-`Oct 2025 — Present`
-
-Working on scalable web and mobile products with a focus on backend engineering, API development, application performance, and production systems.
-
 **Focus Areas**
 
-* Laravel application development
-* RESTful API architecture
-* Flutter mobile application development
-* Database design and optimization
-* Third-party API & service integrations
-* Payment and cloud service integrations
-* Performance optimization and production deployment
-
----
-
-### `02` — Laravel & Flutter Developer
-
-**Ayaan Technologies LTD · Cumilla, Bangladesh**
-`May 2022 — Aug 2024`
-
-Developed and maintained web applications, backend services, and cross-platform mobile applications.
-
-**Focus Areas**
-
-* PHP & Laravel backend development
+* Backend development
 * REST API development and integration
 * Flutter application development
-* Android application development
-* MySQL & SQLite database management
 * Authentication and business logic
 * Application deployment and maintenance
 
