@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600\&size=22\&pause=1200\&color=8B5CF6\&center=true\&vCenter=true\&width=900\&lines=Laravel+%7C+PHP+%7C+Flutter+%7C+Android;Backend+Architecture+%7C+REST+APIs+%7C+Mobile+Apps;Building+Software+That+Scales.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600\&size=22\&pause=1200\&color=8B5CF6\&center=true\&vCenter=true\&width=900\&lines=Laravel+%7C+Next.JS+%7C+Flutter+%7C+Android;Backend+Architecture+%7C+REST+APIs+%7C+Mobile+Apps;Building+Software+That+Scales.)](https://git.io/typing-svg)
 
 </div>
 
